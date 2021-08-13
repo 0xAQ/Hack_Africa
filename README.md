@@ -1,4 +1,4 @@
-# BlockChain-DEX-SushiSwap
+# DEX - SushiSwap
 **Sushi Easy Challenge in Hack Afica HACKATHON by encode club**
 
 *Problem Statement*:
@@ -10,5 +10,6 @@ by *default* it made to deploy in *ropsten* test net
 and you set the token address to what you want transfer from ether 
 this file is made only to transfer from ether =)....
 set the transfer token address through *SelectTransferToken* function
-mention the value and call *OurTeams_Swap* functtion and **Boom** Swapped 
+mention the value and call *OurTeams_Swap* functtion and **Boom** Swapped. 
+The **code** could have been a lot better but this did the job but maybe we shall improve this later.......  
 

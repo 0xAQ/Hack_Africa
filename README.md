@@ -13,4 +13,4 @@ set the transfer token address through *SelectTransferToken* function
 mention the value and call *OurTeams_Swap* functtion and **Boom** Swapped. 
 The **code** could have been a lot better but this did the job but maybe we shall improve this later.......  
 
-![This is an image](https://i.seadn.io/gcs/files/0e49feab1373a8e4c92266552f75da38.jpg?auto=format&w=1000)
+![This is an image](https://i.seadn.io/gcs/files/0e49feab1373a8e4c92266552f75da38.jpg)
